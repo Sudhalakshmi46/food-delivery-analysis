@@ -44,4 +44,4 @@ This project demonstrates how data analytics can improve decision-making in food
 
 ---
 
-👤 Developed by: Your Name
+👤 Developed by: Sudhalakshmi P
